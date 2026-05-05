@@ -50,7 +50,7 @@ A Telegram bot that automatically analyzes datasets (CSV, Excel, JSON) and gener
 ### 1. Clone repository
 
 ```bash
-git clone https://github.com/your-username/telegram-data-analyzer-bot.git
+git clone [https://github.com/your-username/telegram-data-analyzer-bot.git](https://github.com/VedantElite/Telegram-Bot-Data-Analyzer.git)
 cd telegram-data-analyzer-bot
 ```
 
@@ -62,8 +62,9 @@ pip install -r requirements.txt
 
 ### 3. Setup environment variables
 
-Create a `.env` file:
-
+Create  file:
+VS Code bot.py
+Then VS code Need to Run While Running Put the File, then run again for New File
 ```
 BOT_TOKEN=your_telegram_bot_token
 ```
