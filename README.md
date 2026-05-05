@@ -58,16 +58,28 @@ cd telegram-data-analyzer-bot
 
 ```bash
 pip install -r requirements.txt
-pip install pandas openpyxl
-
 ```
 
 ### 3. Setup environment variables
 
-Create `.env` file:
+Create a `.env` file:
 
 ```
 BOT_TOKEN=your_telegram_bot_token
+```
+
+Or set it manually:
+
+**Linux/Mac:**
+
+```bash
+export BOT_TOKEN=your_telegram_bot_token
+```
+
+**Windows (CMD):**
+
+```bash
+set BOT_TOKEN=your_telegram_bot_token
 ```
 
 ### 4. Run the bot
@@ -75,7 +87,6 @@ BOT_TOKEN=your_telegram_bot_token
 ```bash
 python bot.py
 ```
-
 ---
 
 ## 📁 Supported File Types
