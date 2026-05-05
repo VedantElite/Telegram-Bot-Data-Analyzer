@@ -50,7 +50,7 @@ A Telegram bot that automatically analyzes datasets (CSV, Excel, JSON) and gener
 ### 1. Clone repository
 
 ```bash
-git clone [https://github.com/your-username/telegram-data-analyzer-bot.git](https://github.com/VedantElite/Telegram-Bot-Data-Analyzer.git)
+git clone (https://github.com/VedantElite/Telegram-Bot-Data-Analyzer.git)
 cd telegram-data-analyzer-bot
 ```
 
